@@ -1,0 +1,16 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Mac files
+.DS_Store
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# HTML output (if any)
+*.html

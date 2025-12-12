@@ -297,6 +297,4 @@ https://github.com/jinyaoh/AJR2001-Replication/issues
 
 ---
 
-**Generated with:** Claude Code (https://claude.com/claude-code)
-
-**Last Updated:** December 11, 2025
+**Last Updated:** December 12, 2025
